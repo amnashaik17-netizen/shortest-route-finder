@@ -1,0 +1,6 @@
+{
+  "name": "SmartRoute – GPS Shortest Route Finder",
+  "description": "GPS Shortest Route Finder using Dijkstra\u0027s Algorithm with weighted graph visualizer, adjacency representations, real SQLite database, and DAA complexity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
